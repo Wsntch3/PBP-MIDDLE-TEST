@@ -49,7 +49,7 @@ An **Object-Oriented Python (OOP)** web app built with **Django**, designed to *
 This portfolio project helped me strengthen:
 - Clean frontend structure (HTML/CSS/JS separation)
 - Animation logic and interactivity
-- Responsive design with consistent color themes
+- Interactive design with consistent color themes
 - Integration between frontend and real-world project descriptions
 
 ---
@@ -79,7 +79,3 @@ Link : https://youtu.be/_Uic97CPzD0
 📧 [anandawhisnuuu@gmail.com]
 
 ---
-
-## 🪪 License
-
-This project is open source and available under the [MIT License](LICENSE).
